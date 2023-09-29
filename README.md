@@ -1,2 +1,2 @@
 # Time-Series-EDA
-Exploratory data analysis on the Tesla stock.
+Visualization and Analysis of Tesla Stocks(2012-2022).
